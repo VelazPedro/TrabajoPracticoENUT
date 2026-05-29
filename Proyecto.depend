@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1779761045 source:c:\users\windows10\desktop\universidad\programacion (en general)\topicos de programacion\trabajo practico intento 2\archivos tp\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1779760284 c:\users\windows10\desktop\universidad\programacion (en general)\topicos de programacion\trabajo practico intento 2\archivos tp\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1779760720 source:c:\users\windows10\desktop\universidad\programacion (en general)\topicos de programacion\trabajo practico intento 2\codeblocks\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1779760284 c:\users\windows10\desktop\universidad\programacion (en general)\topicos de programacion\trabajo practico intento 2\codeblocks\proyecto\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1780061462 source:c:\users\pvela\downloads\proyecto\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1780061102 c:\users\pvela\downloads\proyecto\proyecto\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1780061515 source:c:\users\pvela\downloads\proyecto\proyecto\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
