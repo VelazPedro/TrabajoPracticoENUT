@@ -37,3 +37,20 @@
 	<string.h>
 	"funciones.h"
 
+1780063509 source:c:\users\lucas\onedrive\documentos\github\trabajopracticoenut\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1780063509 c:\users\lucas\onedrive\documentos\github\trabajopracticoenut\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1780063509 source:c:\users\lucas\onedrive\documentos\github\trabajopracticoenut\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

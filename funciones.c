@@ -172,10 +172,11 @@ void Punto1(FILE *fp,IndiceColumna indice[MAX_COLUMNAS],int col,char *linea,int 
         }
     }
     printf(" ---------------------------------------------- PUNTO 1 ----------------------------------------------------- \n");
-for(int i=0;i<6;i++)
-{
-    printf(" REGI\xd3N: %d, cant_registros: %d, cant_hogares_est: %ld, cant_personas_est: %ld, nombre.region: %s \n",i+1,conteoXRegion[i],sumWHOG[i],sumWPER[i],regiones[i]);
-}
+    printf("REGI\xd3N\tcant_registros\tcant_hogares_est\tcant_personas_est\tnombre.region\n");
+    for(int i=0;i<6;i++)
+    {
+        printf("%d    \t%d    \t%ld  \t\t%ld  \t\t%s\n",i+1,conteoXRegion[i],sumWHOG[i],sumWPER[i],regiones[i]);
+    }
     printf(" ------------------------------------------------------------------------------------------------------------ \n");
 //xd3 es Ó
 
