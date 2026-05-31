@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1780096410 source:c:\users\ramir\onedrive\documentos\codeblocks\tp indeec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1780099134 source:c:\users\ramir\onedrive\documentos\codeblocks\tp indeec\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1780096837 c:\users\ramir\onedrive\documentos\codeblocks\tp indeec\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1780203130 source:c:\users\windows10\desktop\tp indeec\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1780196361 c:\users\windows10\desktop\tp indeec\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1780202728 source:c:\users\windows10\desktop\tp indeec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1780260382 source:c:\users\pvela\downloads\tp\tp indec 2\tp indeec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1780260238 c:\users\pvela\downloads\tp\tp indec 2\tp indeec\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1780260518 source:c:\users\pvela\downloads\tp\tp indec 2\tp indeec\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
